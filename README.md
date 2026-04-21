@@ -1,6 +1,6 @@
 # TechDoc License Server
 
-License validation server for the TechDoc Generator VS Code extension. Handles Gumroad purchase webhooks and validates license keys.
+License validation server for the Technical Documentation Generator VS Code extension. Handles Gumroad purchase webhooks and validates license keys. Runs on Sonnet 4.6.
 
 ## Endpoints
 
